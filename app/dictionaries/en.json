@@ -1,0 +1,20 @@
+{
+  "test": {
+    "thanks": "Thanks"
+  },
+  "home": {
+    "caption": "NextLevel Food for NextLevel Foodies",
+    "sub-caption": "Taste & Share food from all over the world",
+    "join-the-community": "Join the Community",
+    "secondary-btn": "Explore Meals",
+    "how-it-works": "How it works",
+    "how-it-works-para-1": "NextLevel Food is a platform for foodies to share their favorite recipes with the world. It's a place to discover new dishes, and to connect with other food lovers.",
+    "how-it-works-para-2": "NextLevel Food is a place to discover new dishes, and to connect with other food lovers.",
+    "why-food": "Why NextLevel Food?",
+    "why-food-para-1": "NextLevel Food is a platform for foodies to share their favorite recipes with the world. It's a place to discover new dishes, and to connect with other food lovers.",
+    "why-food-para-2": "NextLevel Food is a place to discover new dishes, and to connect with other food lovers."
+  },
+  "meals": {
+    "head": "Delicious Meals Created"
+  }
+}

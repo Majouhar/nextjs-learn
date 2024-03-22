@@ -14,6 +14,7 @@ async function TestPage() {
   const { products } = JSON.parse(jsonData);
   return (
     <ul>
+      <h1>HIIII</h1>
       {products.map((product) => (
         <li key={product.id}>{product.title}</li>
       ))}

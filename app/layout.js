@@ -1,7 +1,6 @@
 import MainHeader from "@/components/main-header/main-header";
 import "./globals.css";
 import MainHeaderBackground from "@/components/main-header/main-header-background";
-import { SessionProvider } from "next-auth/react";
 import { Providers } from "@/store/next-provider";
 
 export const metadata = {
@@ -15,7 +14,7 @@ export default function RootLayout({ children }) {
       <body>
         <Providers>
           <MainHeaderBackground />
-          <MainHeader />
+          <MainHeader  />
           {children}
         </Providers>
       </body>

@@ -1,7 +1,7 @@
 import React from "react";
 
 async function Feedbacks() {
-  //use directly , this added for testing purpose
+  //use db directly , this added for testing purpose
   const feedbackResponse = await fetch(`${process.env.baseUrl}/api/form`);
   const feedback = await feedbackResponse.json();
   return (

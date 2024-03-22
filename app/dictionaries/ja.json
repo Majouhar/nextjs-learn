@@ -1,0 +1,20 @@
+{
+    "test":{
+        "thanks":"ありがとう"
+    },
+    "home":{
+        "caption":"ネクストレベルのグルメのためのネクストレベルの食事",
+        "sub-caption":"世界中の料理を味わってシェアしましょう",
+        "join-the-community":"コミュニティに参加する",
+        "secondary-btn":"食事を探索する",
+        "how-it-works":"使い方",
+        "how-it-works-para-1":"NextLevel Food は、食通がお気に入りのレシピを世界と共有するためのプラットフォームです。新しい料理を発見し、他のグルメ愛好家とつながる場所です。",
+        "how-it-works-para-2":"NextLevel Food は、新しい料理を発見し、他の料理愛好家とつながる場所です。",
+        "why-food":"なぜネクストレベルフードなのか？",
+        "why-food-para-1":"NextLevel Food は、食通がお気に入りのレシピを世界と共有するためのプラットフォームです。新しい料理を発見し、他のグルメ愛好家とつながる場所です。",
+        "why-food-para-2":"NextLevel Food は、新しい料理を発見し、他の料理愛好家とつながる場所です。"
+    },
+    "meals":{
+        "head":"おいしい食事を作ります"
+    }
+}
